@@ -1,0 +1,5 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,alpha,n,num_iter,singal,thr,bonf_ks,bonf_tpr,naive_ks,naive_tpr,oc_ks,oc_tpr,parametric_ks,parametric_tpr
+2022-09-29 17:20:16,5.0min,75c49d71b0824c5cb0cd6266b909e604,,LOCAL,experiment_multiple_reference/synthetic_tpr/tpr_ltm_mref.py,miwa.daiki,FINISHED,0.05,256,1000,4,0.0,0,0,0,1,3.667446505584278e-10,0.064,0,0.917
+2022-09-29 17:20:13,4.8min,afe9030fc8cd4f55979abc03d0e75bbe,,LOCAL,experiment_multiple_reference/synthetic_tpr/tpr_ltm_mref.py,miwa.daiki,FINISHED,0.05,256,1000,3,0.0,0,0,0,1,0.0000013326360441728672,0.073,0,0.851
+2022-09-29 17:19:07,4.6min,14a134c326eb45f395fff26a6b70cb39,,LOCAL,experiment_multiple_reference/synthetic_tpr/tpr_ltm_mref.py,miwa.daiki,FINISHED,0.05,256,1000,2,0.0,0,0,0,1,0.2509590762841696,0.052,0,0.737
+2022-09-29 17:18:01,4.2min,96b3ac7f5e3249aa99eb104f90f330e7,,LOCAL,experiment_multiple_reference/synthetic_tpr/tpr_ltm_mref.py,miwa.daiki,FINISHED,0.05,256,1000,1,0.0,0,0,0,0.999,0.7085383374531222,0.053,1.046488538408262e-83,0.253
